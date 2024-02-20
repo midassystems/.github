@@ -1,4 +1,4 @@
-![Midas Trading System Logo](/images/logo.png)
+![Midas Trading System Logo](/midas_logo.jpeg)
 
 # Welcome to the Midas Trading System👋
 
