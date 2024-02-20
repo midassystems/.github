@@ -1,4 +1,6 @@
-![Midas Trading System Logo](/midas_logo.jpeg)
+<p align="center">
+  <img src="/midas_logo.jpeg" alt="Midas Trading System Logo" title="Midas Trading System">
+</p>
 
 # Welcome to the Midas Trading System👋
 
