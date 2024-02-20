@@ -1,3 +1,5 @@
+![Midas Trading System Logo](/images/logo.png)
+
 # Welcome to the Midas Trading System👋
 
 The Midas Trading System is a comprehensive ecosystem designed for financial market analysis, backtesting trading strategies, and executing trades both in backtest environments and live markets. Our goal is to provide a seamless transition from strategy development to live trading with a high degree of accuracy and efficiency.
