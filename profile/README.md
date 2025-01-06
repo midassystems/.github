@@ -1,8 +1,6 @@
 # Welcome to the Midas Trading System 👋
 
-**Algorithmic Trading Technology Made Simple**
-
-The Midas Trading System is a comprehensive ecosystem for financial market analysis, strategy development, backtesting, and live trading. It is designed to provide a seamless transition from backtesting to live trading with minimal adjustments, enabling users to focus on crafting high-performing strategies.
+The Midas Trading System is a comprehensive ecosystem for financial market analysis, strategy development, backtesting, and live trading. It is designed to provide a seamless transition from backtesting to live trading with minimal adjustments. Midas is highly extensible, offering support for custom data sources, brokers, and strategies, while ensuring smooth integration between components for an exceptional user experience.
 
 ## What's Inside
 
@@ -32,21 +30,6 @@ The Midas Trading System organization contains the following key repositories:
 **Backend Service**
 - Provides data storage and API access for backtesting results and live trading.
 - Docker-deployable for local or remote setups.
-
-## Key Features
-- **End-to-End Ecosystem**: From data ingestion to strategy execution, Midas covers all aspects of algorithmic trading.
-- **Extensibility**: Add new data sources, brokers, and strategies with ease.
-- **Seamless Integration**: Components work together out of the box, ensuring a smooth user experience.
-- **Customizable**: Tailor configurations and strategies to suit your needs.
-
-## Get Started
-Explore the repositories to learn more about each component and start building your trading strategies:
-
-- [MidasTrader Documentation](https://github.com/midassystems/midastrader)
-- [Midas Shell CLI](https://github.com/midassystems/midas-shell)
-- [Midas GUI](https://github.com/midassystems/midas-gui)
-- [Midas Server](https://github.com/midassystems/midas-server)
-
 ---
 
 For questions or contributions, feel free to open issues or pull requests in the respective repositories.
